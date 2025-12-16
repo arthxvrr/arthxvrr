@@ -2,7 +2,7 @@
 
 **`Analista de Dados`**
 
-Me chamo Arthur dos Santos Xavier, tenho 34 anos e sou natural de Natividade-RJ. Concluí a graduação de Sistemas de Informação na Faculdade Redentor, em Itaperuna. Atualmente, estou adquirindo conhecimentos em análise de dados através da ferramenta *Excel* e da linguagem de programação *Python*. Também estudo *HTML*, *CSS* e *JavaScript*. Sou aficionado por tecnologia, games (inclusive videos de gameplays walkthrough no YouTube), leitura e desenhos antigos (Peanuts é um dos meus favoritos).
+Me chamo Arthur dos Santos Xavier, tenho 34 anos e sou natural de Natividade-RJ. Concluí a graduação de Sistemas de Informação na Faculdade Redentor, em Itaperuna. Atualmente, estou adquirindo conhecimentos em análise de dados por meio da ferramenta Excel e da linguagem de programação Python. Também estudo HTML, CSS e JavaScript. Sou aficionado por tecnologia, games (inclusive vídeos de gameplays walkthrough no YouTube), leitura e desenhos antigos (Peanuts é um dos meus favoritos).
 
 <p align="left">
     <a href="https://github.com/arthxvrr?tab=repositories&sort=stargazers">
