@@ -11,8 +11,6 @@ Me chamo Arthur dos Santos Xavier, tenho 34 anos e sou natural de Natividade-RJ.
 My name is Arthur dos Santos Xavier, I'm 34 years old, and I'm from Natividade-RJ. I graduated in Information Systems from the Redentor College in Itaperuna. I'm currently acquiring knowledge of data analysis using the *Excel* tool and the *Python* programming language. I'm also studying *HTML*, *CSS* and *JavaScript*. I'm a fan of technology, games (including gameplay walkthrough videos on YouTube), reading and old cartoons (*Peanuts* and *The Snoopy Show* are some of my favorites).
 
 
-Translated with DeepL.com (free version)
-
 <p align="left">
     <a href="https://github.com/arthxvrr?tab=repositories&sort=stargazers">
         <img 
@@ -104,14 +102,15 @@ Translated with DeepL.com (free version)
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=arthxvrr&show_icons=true&theme=nord&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats-amber-seven-32.vercel.app/api?username=arthxvrr&show_icons=true&theme=holi&include_all_commits=true&locale=pt-br" 
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthxvrr&theme=nord&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-left: 10px;" 
+    src="https://github-readme-stats-amber-seven-32.vercel.app/api/top-langs/?username=arthxvrr&layout=compact&theme=holi&langs_count=20&hide=tex&custom_title=Tecnologias"" 
   />
 
-</p>
