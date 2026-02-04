@@ -2,13 +2,13 @@
 
 **`Analista de Dados`**
 
-Me chamo Arthur dos Santos Xavier, tenho 34 anos e sou natural de Natividade-RJ. Concluí a graduação de Sistemas de Informação na Faculdade Redentor, em Itaperuna. Atualmente, estou adquirindo conhecimentos em análise de dados por meio da ferramenta *Excel* e da linguagem de programação *Python*. Também estudo *HTML*, *CSS* e *JavaScript*. Sou aficionado por tecnologia, games (inclusive vídeos de *gameplays walkthrough* no *YouTube*), leitura e desenhos antigos (*Peanuts* e *Snoopy e Sua Turma* é um dos meus favoritos).
+Me chamo Arthur dos Santos Xavier, tenho 34 anos, TEA nível 1 e sou natural de Natividade-RJ. Concluí a graduação de Sistemas de Informação na Faculdade Redentor, em Itaperuna. Atualmente, estou adquirindo conhecimentos em análise de dados por meio da ferramenta *Excel* e da linguagem de programação *Python*. Também estudo *HTML*, *CSS* e *JavaScript*. Sou aficionado por tecnologia, games (inclusive vídeos de *gameplays walkthrough* no *YouTube*), leitura e desenhos antigos (*Peanuts* e *Snoopy e Sua Turma* é um dos meus favoritos).
 
 ---
 
 **`Data Analyst`**
 
-My name is Arthur dos Santos Xavier, I'm 34 years old, and I'm from Natividade-RJ. I graduated in Information Systems from the Redentor College in Itaperuna. I'm currently acquiring knowledge of data analysis using the *Excel* tool and the *Python* programming language. I'm also studying *HTML*, *CSS* and *JavaScript*. I'm a fan of technology, games (including gameplay walkthrough videos on YouTube), reading and old cartoons (*Peanuts* and *The Snoopy Show* are some of my favorites).
+My name is Arthur dos Santos Xavier, I'm 34 years old, Level 1 Autism Spectrum Disorder (ASD), and I'm from Natividade-RJ. I graduated in Information Systems from the Redentor College in Itaperuna. I'm currently acquiring knowledge of data analysis using the *Excel* tool and the *Python* programming language. I'm also studying *HTML*, *CSS* and *JavaScript*. I'm a fan of technology, games (including gameplay walkthrough videos on YouTube), reading and old cartoons (*Peanuts* and *The Snoopy Show* are some of my favorites).
 
 
 <p align="left">
