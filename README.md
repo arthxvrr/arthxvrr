@@ -96,21 +96,6 @@ My name is Arthur dos Santos Xavier, I'm 34 years old, Level 1 Autism Spectrum D
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats-amber-seven-32.vercel.app/api?username=arthxvrr&show_icons=true&theme=holi&include_all_commits=true&locale=pt-br" 
-  />
-
-  <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-left: 10px;" 
-    src="https://github-readme-stats-amber-seven-32.vercel.app/api/top-langs/?username=arthxvrr&layout=compact&theme=holi&langs_count=20&hide=tex&custom_title=Tecnologias"" 
-  />
-
+![arthxvrr's Stats](https://github-readme-stats.vercel.app/api?username=arthxvrr&theme=gotham&show_icons=true&hide_border=true&count_private=false)  
+![arthxvrr's Streak](https://github-readme-streak-stats.herokuapp.com/?user=arthxvrr&theme=gotham&hide_border=true)  
+![arthxvrr's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arthxvrr&theme=gotham&show_icons=true&hide_border=true&layout=compact)
